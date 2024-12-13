@@ -9,5 +9,5 @@ type Params = {
 // }
 
 export default function Page({ params }: Params) {
-  return <h1>Slug: {params.slug} holly fack</h1>;
+  return <h1>Slug: {params.slug} holly shit</h1>;
 }
